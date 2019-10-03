@@ -1,0 +1,12 @@
+
+User-agent: *
+
+
+Disallow: /fr/project/
+
+Disallow: /fr/technology/
+
+Disallow: /fr/web-project-skill/
+
+Disallow: /fr/graduation/
+
